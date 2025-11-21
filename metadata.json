@@ -1,5 +1,0 @@
-{
-  "name": "中片幅視角換算器",
-  "description": "計算各種中片幅格式（645, 6x6, 6x7, 6x8, 6x9, 6x12, 6x17）鏡頭焦距對應 135 全片幅的等效視角。",
-  "requestFramePermissions": []
-}
